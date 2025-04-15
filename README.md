@@ -1,6 +1,6 @@
 # 🧠 Zuno – Plataforma de Automação de Processos Empresariais (SaaS)
 
-Zuno é uma plataforma SaaS moderna que permite às empresas **automatizar e organizar fluxos de trabalho**, como aprovações, atendimentos, compras e contratações. Inspirado em soluções como Pipefy, Notion e Monday.com, o Flowwise oferece **flexibilidade, integração e escalabilidade**.
+Zuno é uma plataforma SaaS moderna que permite às empresas **automatizar e organizar fluxos de trabalho**, como aprovações, atendimentos, compras e contratações. Inspirado em soluções como Pipefy, Notion e Monday.com, o Zuno oferece **flexibilidade, integração e escalabilidade**.
 
 ---
 
