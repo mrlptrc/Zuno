@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Zuno.Application\Zuno.Application.csproj" />
+    <ProjectReference Include="..\Zuno.Domain\Zuno.Domain.csproj" />
+    <ProjectReference Include="..\Zuno.Shared\Zuno.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Migrations\" />
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
+</Project>
