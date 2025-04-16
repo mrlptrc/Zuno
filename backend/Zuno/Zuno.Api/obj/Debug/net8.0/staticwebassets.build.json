@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6dqdTVKWPSPHRHolD8SFzhGQcDmG0h3A3Mr2VU3qPCI=",
+  "Source": "Zuno.Api",
+  "BasePath": "_content/Zuno.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

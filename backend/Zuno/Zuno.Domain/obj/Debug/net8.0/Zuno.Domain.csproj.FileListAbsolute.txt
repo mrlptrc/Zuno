@@ -1,0 +1,12 @@
+C:\Users\MuriloPatrícioBizerr\Source\Repos\Zuno\backend\Zuno\Zuno.Domain\bin\Debug\net8.0\Zuno.Domain.deps.json
+C:\Users\MuriloPatrícioBizerr\Source\Repos\Zuno\backend\Zuno\Zuno.Domain\bin\Debug\net8.0\Zuno.Domain.dll
+C:\Users\MuriloPatrícioBizerr\Source\Repos\Zuno\backend\Zuno\Zuno.Domain\bin\Debug\net8.0\Zuno.Domain.pdb
+C:\Users\MuriloPatrícioBizerr\Source\Repos\Zuno\backend\Zuno\Zuno.Domain\obj\Debug\net8.0\Zuno.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MuriloPatrícioBizerr\Source\Repos\Zuno\backend\Zuno\Zuno.Domain\obj\Debug\net8.0\Zuno.Domain.AssemblyInfoInputs.cache
+C:\Users\MuriloPatrícioBizerr\Source\Repos\Zuno\backend\Zuno\Zuno.Domain\obj\Debug\net8.0\Zuno.Domain.AssemblyInfo.cs
+C:\Users\MuriloPatrícioBizerr\Source\Repos\Zuno\backend\Zuno\Zuno.Domain\obj\Debug\net8.0\Zuno.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MuriloPatrícioBizerr\Source\Repos\Zuno\backend\Zuno\Zuno.Domain\obj\Debug\net8.0\Zuno.Domain.sourcelink.json
+C:\Users\MuriloPatrícioBizerr\Source\Repos\Zuno\backend\Zuno\Zuno.Domain\obj\Debug\net8.0\Zuno.Domain.dll
+C:\Users\MuriloPatrícioBizerr\Source\Repos\Zuno\backend\Zuno\Zuno.Domain\obj\Debug\net8.0\refint\Zuno.Domain.dll
+C:\Users\MuriloPatrícioBizerr\Source\Repos\Zuno\backend\Zuno\Zuno.Domain\obj\Debug\net8.0\Zuno.Domain.pdb
+C:\Users\MuriloPatrícioBizerr\Source\Repos\Zuno\backend\Zuno\Zuno.Domain\obj\Debug\net8.0\ref\Zuno.Domain.dll
