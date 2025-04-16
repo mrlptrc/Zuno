@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Api\\Zuno.Api.csproj": {}
+    "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Api\\Zuno.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Api\\Zuno.Api.csproj": {
+    "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Api\\Zuno.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Api\\Zuno.Api.csproj",
+        "projectUniqueName": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Api\\Zuno.Api.csproj",
         "projectName": "Zuno.Api",
-        "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Api\\Zuno.Api.csproj",
+        "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Api\\Zuno.Api.csproj",
         "packagesPath": "C:\\Users\\MuriloPatrícioBizerr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Api\\obj\\",
+        "outputPath": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,14 +32,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Application\\Zuno.Application.csproj": {
-                "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Application\\Zuno.Application.csproj"
+              "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Application\\Zuno.Application.csproj": {
+                "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Application\\Zuno.Application.csproj"
               },
-              "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Infrastructure\\Zuno.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Infrastructure\\Zuno.Infrastructure.csproj"
+              "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Infrastructure\\Zuno.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Infrastructure\\Zuno.Infrastructure.csproj"
               },
-              "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\Zuno.Shared.csproj": {
-                "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\Zuno.Shared.csproj"
+              "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\Zuno.Shared.csproj": {
+                "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\Zuno.Shared.csproj"
               }
             }
           }
@@ -86,6 +86,16 @@
               "target": "Package",
               "version": "[9.0.4, )"
             },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[9.0.4, )"
@@ -114,14 +124,14 @@
         }
       }
     },
-    "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Application\\Zuno.Application.csproj": {
+    "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Application\\Zuno.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Application\\Zuno.Application.csproj",
+        "projectUniqueName": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Application\\Zuno.Application.csproj",
         "projectName": "Zuno.Application",
-        "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Application\\Zuno.Application.csproj",
+        "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Application\\Zuno.Application.csproj",
         "packagesPath": "C:\\Users\\MuriloPatrícioBizerr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Application\\obj\\",
+        "outputPath": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -142,11 +152,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Domain\\Zuno.Domain.csproj": {
-                "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Domain\\Zuno.Domain.csproj"
+              "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Domain\\Zuno.Domain.csproj": {
+                "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Domain\\Zuno.Domain.csproj"
               },
-              "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\Zuno.Shared.csproj": {
-                "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\Zuno.Shared.csproj"
+              "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\Zuno.Shared.csproj": {
+                "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\Zuno.Shared.csproj"
               }
             }
           }
@@ -186,14 +196,14 @@
         }
       }
     },
-    "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Domain\\Zuno.Domain.csproj": {
+    "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Domain\\Zuno.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Domain\\Zuno.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Domain\\Zuno.Domain.csproj",
         "projectName": "Zuno.Domain",
-        "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Domain\\Zuno.Domain.csproj",
+        "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Domain\\Zuno.Domain.csproj",
         "packagesPath": "C:\\Users\\MuriloPatrícioBizerr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Domain\\obj\\",
+        "outputPath": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -251,14 +261,14 @@
         }
       }
     },
-    "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Infrastructure\\Zuno.Infrastructure.csproj": {
+    "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Infrastructure\\Zuno.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Infrastructure\\Zuno.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Infrastructure\\Zuno.Infrastructure.csproj",
         "projectName": "Zuno.Infrastructure",
-        "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Infrastructure\\Zuno.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Infrastructure\\Zuno.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\MuriloPatrícioBizerr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -279,14 +289,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Application\\Zuno.Application.csproj": {
-                "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Application\\Zuno.Application.csproj"
+              "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Application\\Zuno.Application.csproj": {
+                "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Application\\Zuno.Application.csproj"
               },
-              "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Domain\\Zuno.Domain.csproj": {
-                "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Domain\\Zuno.Domain.csproj"
+              "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Domain\\Zuno.Domain.csproj": {
+                "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Domain\\Zuno.Domain.csproj"
               },
-              "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\Zuno.Shared.csproj": {
-                "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\Zuno.Shared.csproj"
+              "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\Zuno.Shared.csproj": {
+                "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\Zuno.Shared.csproj"
               }
             }
           }
@@ -306,6 +316,18 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -326,12 +348,12 @@
         }
       }
     },
-    "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\Zuno.Shared.csproj": {
+    "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\Zuno.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\Zuno.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\Zuno.Shared.csproj",
         "projectName": "Zuno.Shared",
-        "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\Zuno.Shared.csproj",
+        "projectPath": "C:\\Users\\MuriloPatrícioBizerr\\Source\\Repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\Zuno.Shared.csproj",
         "packagesPath": "C:\\Users\\MuriloPatrícioBizerr\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\MuriloPatrícioBizerr\\source\\repos\\Zuno\\backend\\Zuno\\Zuno.Shared\\obj\\",
         "projectStyle": "PackageReference",

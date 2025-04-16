@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zuno.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c01e0d3d91912afe57b2ab04c47ea04986b80b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e6f29ad9ce6a8a22ad5dde871a0760c20774fec")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zuno.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zuno.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
